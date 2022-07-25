@@ -1,0 +1,46 @@
+@media(max-width: 575.98px){
+    .heading{
+        flex-direction: column-reverse;
+    }
+    .img-office{
+        width: 359px;
+        padding-top: 30px;
+    }
+    .head-teams{
+        text-align: center;
+    }
+    .all-box{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .startbox{
+        width: 300px;
+       height: 457px;
+       align-self: center;
+    }
+    .end-botton{
+        justify-content: center;
+        padding-top: 20px;
+    }
+    .nov2020{
+        text-align: center;
+    }
+    .boxs-number{
+        padding-top: 20px;
+    }
+    .img{
+        display: flex;
+        justify-content: center;
+    }
+   .all-head{
+
+   }
+   .head-simple{
+    text-align: center;
+   }
+   .image-navbar{
+    margin: auto;
+    
+   }
+}
+    
